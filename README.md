@@ -1,4 +1,4 @@
-- Hi I am Dev Punjabi!
+- Hello, my name is Dev Punjabi
 - Im a second year computer science student at the University of Toronto
 - I have over 2 years of expirence with Python and Java
 - And I am currently interested in learning Javascript and C
